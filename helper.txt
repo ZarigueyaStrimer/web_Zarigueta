@@ -1,0 +1,109 @@
+images/logo-default-189x35.png centro ariba
+<section class="section section-md-2 bg-white pb-0" id="portfolio">
+        <div class="bg-custom novi-bg novi-bg-img bg-gray-200"></div>
+        <div class="container">
+          <div class="row row-30 justify-content-center">
+            <div class="col-xl-6 col-md-6 wow fadeInLeft" data-wow-delay=".15s">
+              <h2>me Portfolio</h2>
+            </div>
+            <div class="col-xl-5 col-md-6 wow fadeInRight" data-wow-delay=".15s">
+              <p>todos mis proyectos estan aqui.</p>
+            </div>
+          </div>
+        </div>
+        <div class="container container-custom-right">
+          <!-- Owl Carousel-->
+          <div class="owl-carousel owl-carousel-classic" data-items="1" data-sm-items="1" data-md-items="2" data-lg-items="3" data-xl-items="3" data-xxl-items="3" data-nav="true" data-loop="true" data-margin="30" data-mouse-drag="false" data-center="true" data-autoplay="true">
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-05-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Modern Loft Room</a></h4>
+              <ul class="post-classic-description">
+                <li>2018</li>
+                <li>Residential</li>
+                <li>New York</li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-06-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Sunny Valley Hotel</a></h4>
+              <ul class="post-classic-description">
+                <li>2017</li>
+                <li>Custom Project</li>
+                <li>Los Angeles </li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-07-494x400.png" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">sala de star</a></h4>
+              <ul class="post-classic-description">
+                <li>2021</li>
+                <li>youtube video</li>
+                
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-08-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Jane McMillans House</a></h4>
+              <ul class="post-classic-description">
+                <li>2015</li>
+                <li>Residential</li>
+                <li>Atlanta</li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-09-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Divine Concert Hall</a></h4>
+              <ul class="post-classic-description">
+                <li>2015</li>
+                <li>Commercial</li>
+                <li>Sacramento </li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-10-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Barracuda Restaurant</a></h4>
+              <ul class="post-classic-description">
+                <li>2014</li>
+                <li>Custom Project</li>
+                <li>Chicago</li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-11-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">GMD Travel Agency</a></h4>
+              <ul class="post-classic-description">
+                <li>2014</li>
+                <li>Commercial</li>
+                <li>Dallas</li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-12-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Social Support Center</a></h4>
+              <ul class="post-classic-description">
+                <li>2013</li>
+                <li>Custom Project</li>
+                <li>San Diego</li>
+              </ul>
+            </div>
+            <div class="post-classic">
+              <div class="post-classic-figure"><img src="images/home-13-494x400.jpg" alt="" width="494" height="400"/>
+              </div>
+              <h4 class="post-classic-title"><a href="#">Boston Airport</a></h4>
+              <ul class="post-classic-description">
+                <li>2013</li>
+                <li>Commercial</li>
+                <li>Boston</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
